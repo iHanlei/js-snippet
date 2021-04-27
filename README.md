@@ -1,2 +1,2 @@
-# validation-rule
-js常用正则表达式验证规则
+# js-snippet
+使用原生JS构造常用的工具库以及常见的场景插件
