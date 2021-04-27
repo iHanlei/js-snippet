@@ -1,2 +1,2 @@
 # validation-rule
-js常用验证规则
+js常用正则表达式验证规则
